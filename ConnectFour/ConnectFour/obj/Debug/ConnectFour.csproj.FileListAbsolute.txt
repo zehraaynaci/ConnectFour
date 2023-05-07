@@ -1,0 +1,11 @@
+C:\Users\Zehra\OneDrive\Masaüstü\connect4\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe.config
+C:\Users\Zehra\OneDrive\Masaüstü\connect4\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe
+C:\Users\Zehra\OneDrive\Masaüstü\connect4\ConnectFour\ConnectFour\bin\Debug\ConnectFour.pdb
+C:\Users\Zehra\OneDrive\Masaüstü\connect4\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csproj.AssemblyReference.cache
+C:\Users\Zehra\OneDrive\Masaüstü\connect4\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zehra\OneDrive\Masaüstü\connect4\ConnectFour\ConnectFour\obj\Debug\ConnectFour.GameForm.resources
+C:\Users\Zehra\OneDrive\Masaüstü\connect4\ConnectFour\ConnectFour\obj\Debug\ConnectFour.Properties.Resources.resources
+C:\Users\Zehra\OneDrive\Masaüstü\connect4\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csproj.GenerateResource.cache
+C:\Users\Zehra\OneDrive\Masaüstü\connect4\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csproj.CoreCompileInputs.cache
+C:\Users\Zehra\OneDrive\Masaüstü\connect4\ConnectFour\ConnectFour\obj\Debug\ConnectFour.exe
+C:\Users\Zehra\OneDrive\Masaüstü\connect4\ConnectFour\ConnectFour\obj\Debug\ConnectFour.pdb
